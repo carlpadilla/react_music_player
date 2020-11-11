@@ -91,6 +91,16 @@ function chillHop() {
       id: uuidv4(),
       active: false,
     },
+    {
+      name: 'Chrysalism',
+      cover:
+        'https://chillhop.com/wp-content/uploads/2020/05/260a909fca701bbb7593f5f8f9cff9508cca2856-1024x1024.jpg',
+      artist: 'Toonorth',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=8405',
+      color: ['#FCDDC9', '#16B1C2'],
+      id: uuidv4(),
+      active: false,
+    },
   ];
 }
 
