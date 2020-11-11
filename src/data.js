@@ -71,6 +71,26 @@ function chillHop() {
       id: uuidv4(),
       active: false,
     },
+    {
+      name: 'Faces',
+      cover:
+        'https://chillhop.com/wp-content/uploads/2020/07/c50f86fb7696e5c5747e0fa2ada4fcbc2501fea7-1024x1024.jpg',
+      artist: 'Knowmadic',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=8554',
+      color: ['#FBFFD1', '#C1CEBE'],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: 'Mirage',
+      cover:
+        'https://chillhop.com/wp-content/uploads/2020/09/09fb436604242df99f84b9f359acb046e40d2e9e-1024x1024.jpg',
+      artist: 'Nymano',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=10136',
+      color: ['#5E508E', '#251E25'],
+      id: uuidv4(),
+      active: false,
+    },
   ];
 }
 
